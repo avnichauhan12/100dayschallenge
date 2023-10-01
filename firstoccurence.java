@@ -10,7 +10,6 @@ public class firstoccurence {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int arr[]= {2,51,23,8,23,51,2};
 		
 		int n=23;
