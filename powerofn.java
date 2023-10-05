@@ -12,8 +12,8 @@ public class powerofn {
 
 	public static void main(String[] args) {
 	
-		Scanner ob=new Scanner(System.in);
-        int x=ob.nextInt();
+		Scanner  sc =new Scanner(System.in);
+        int x=sc.nextInt();
         int n=4;
         System.out.println( power(x,n,1,1));
 	}
